@@ -5,7 +5,7 @@ This is my first Git Repository
 Author - suvi tiwary
 void main()
 {
-int i, ar[MAX]; // design array with 5 elements. 
+int i, ar[MAX];
 clrscr();
 // for input values 
 for(i=0;i<MAX;i++)
