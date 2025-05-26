@@ -66,7 +66,6 @@ printf("Enter value for ar[%d] : ",i);
 scanf("%d",&ar[i]);
 }
 printf("\n\nAll Elements r - ");
-// hello
 for(i=0;i<MAX;i++)
 {
 printf("%d, ",ar[i]); 
