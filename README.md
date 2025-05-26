@@ -74,6 +74,6 @@ sum = sum + ar[i];
 }
 avg = (float)sum/MAX;
 printf("\n\nSum of all elements r = %d",sum); 
-printf("\n\nAverage of all elements r = %.2f",avg); 
+printf("\n\nAverage of all elements r = %f",avg); 
 getch();
 }
