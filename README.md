@@ -1,6 +1,6 @@
 rockstar@suvi
 
-This is my first Git Repository _ @github
+This is my first Git Repository
 <br>
 Author - suvi tiwary
 void main()
