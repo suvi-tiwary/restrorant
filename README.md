@@ -76,4 +76,3 @@ printf("\n\nSum of all elements r = %d",sum);
 printf("\n\nAverage of all elements r = %.2f",avg); 
 getch();
 }
-// declare array with 10 elements, input values in runtime, 
