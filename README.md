@@ -14,7 +14,7 @@ printf("Plz Enter value for ar[%d] : ",i);
 scanf("%d",&ar[i]);
 }
 printf("\n\n List of array elements - "); 
-for(i=0;i<MAX;i++) // for display
+for(i=0;i<MAX;i++) 
 printf("%d, ",ar[i]); 
 getch();
 }
@@ -66,7 +66,7 @@ printf("Enter value for ar[%d] : ",i);
 scanf("%d",&ar[i]);
 }
 printf("\n\nAll Elements r - ");
-// for disp 
+// hello
 for(i=0;i<MAX;i++)
 {
 printf("%d, ",ar[i]); 
