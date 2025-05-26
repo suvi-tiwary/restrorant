@@ -1,4 +1,4 @@
-# Restrorant
+o# Restrorant
 This is my first Git Repository
 <br>
 Author - suvi tiwary
@@ -74,5 +74,5 @@ sum = sum + ar[i];
 avg = (float)sum/MAX;
 printf("\n\nSum of all elements r = %d",sum); 
 printf("\n\nAverage of all elements r = %.2f",avg); 
-getch()
+getch();
 }
