@@ -50,3 +50,30 @@ printf("%3d ",c[i][j]);
 }
 getch();
 }
+
+
+#define MAX 10 
+void main()
+{
+int i,ar[MAX],sum=0; 
+float avg; 
+clrscr();
+// loop for input values 
+for(i=0;i<MAX;i++)
+{
+printf("Enter value for ar[%d] : ",i); 
+scanf("%d",&ar[i]);
+}
+printf("\n\nAll Elements r - ");
+// for disp 
+for(i=0;i<MAX;i++)
+{
+printf("%d, ",ar[i]); 
+sum = sum + ar[i];
+}
+avg = (float)sum/MAX;
+printf("\n\nSum of all elements r = %d",sum); 
+printf("\n\nAverage of all elements r = %.2f",avg); 
+getch();
+}
+// declare array with 10 elements, input values in runtime, 
