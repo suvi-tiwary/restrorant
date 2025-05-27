@@ -76,3 +76,7 @@ printf("\n\nSum of all elements r = %d",sum);
 printf("\n\nAverage of all elements r = %f",avg); 
 getch();
 }
+
+
+hello Rockstar today target _
+make project
